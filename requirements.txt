@@ -2,3 +2,4 @@ Flask==2.2.3
 Werkzeug==2.2.3
 youtube-transcript-api
 gunicorn
+--no-deps aria2
